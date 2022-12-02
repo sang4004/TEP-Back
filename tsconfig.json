@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "baseUrl": "./",
+    "outDir": "build",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "target": "es2015",
+    "lib": ["esnext"],
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node",
+    "paths": {
+      "@/*": ["src/*"],
+      "*": ["src/@types/*"]
+    },
+    "sourceMap": true,
+    "declaration": true,
+  },
+  "include": ["./src/**/*.ts"],
+  "exclude": ["../node_modules/**/*", "webpack.config.js"]
+}
