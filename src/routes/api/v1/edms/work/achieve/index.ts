@@ -1,6 +1,4 @@
 /******************************************************************************
- * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
- * Data modelings and methods used are assets of Moornmo Inc.                 *
  * entity :
  * WorkAchieve
  * 성과물 관련 api

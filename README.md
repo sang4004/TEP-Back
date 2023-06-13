@@ -39,8 +39,6 @@
 4. api 파일 상단 Description 규칙
 	```
 	/******************************************************************************
-    * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
-    * Data modelings and methods used are assets of Moornmo Inc.                 *
     * entity : -> 사용한 entity 명세 
         * User
             * 유저 정보를 받아와 로그인시 검증하기 위한 entity
@@ -58,8 +56,6 @@
 5. entity 파일 상단 Description 규칙
 	```
 	/******************************************************************************
-    * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
-    * Data modelings and methods used are assets of Moornmo Inc.                 *
     * entitiy 이름 ex ) User
     * column : -> 컬럼 기능 명세
         * ex ) id : row index

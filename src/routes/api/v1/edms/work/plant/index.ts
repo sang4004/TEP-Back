@@ -1,6 +1,4 @@
 /******************************************************************************
- * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
- * Data modelings and methods used are assets of Moornmo Inc.                 *
  ******************************************************************************
  * connect_plant_files : 주기기 파일 연결
  *** POST

@@ -1,6 +1,4 @@
 /******************************************************************************
- * Copyright (c) 2022. Moornmo Inc. Rights reserved.                          *
- * Data modelings and methods used are assets of Moornmo Inc.                 *
  * entity : EdmsOtherFiles
  * EdmsProjectType, EdmsDiscipline, EdmsCategory, EdmsDocument, EdmsFiles
  * EdmsOtherFiles

@@ -1,5 +1,4 @@
 /******************************************************************************
- * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
  * edms_files, edms_other_files 데이터를 pdf 로 변환 후 streamDocs 에 등록하는 워커
  * PdfData, OtherPdfData 에 등록한다.
  * 매 10초마다 검사하며, 최대 10개씩 묶어서 처리함 ( 병렬처리 )

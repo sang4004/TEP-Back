@@ -2,8 +2,6 @@
 to: src/entity/<%=name.charAt(0).toUpperCase() + name.slice(1)%>.ts
 ---
 /******************************************************************************
- * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
- * Data modelings and methods used are assets of Moornmo Inc.                 *
  * <%=name%>
  * column : 
     * id : row index By BaseEntity

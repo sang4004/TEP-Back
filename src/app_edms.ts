@@ -1,9 +1,3 @@
-/******************************************************************************
- * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
- * Data modelings and methods used are assets of Moornmo Inc.                 *
- *
- *****************************************************************************/
-
 import "./env";
 import express, { Application, Request, Response } from "express";
 import cors from "cors";

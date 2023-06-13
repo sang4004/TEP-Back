@@ -1,6 +1,4 @@
 /******************************************************************************
- * Copyright (c) 2021. Moornmo Inc. Rights reserved.                          *
- * Data modelings and methods used are assets of Moornmo Inc.                 *
  * Edms Document Author
  * 도큐먼트의 담당자들 리스트
  * column : 
